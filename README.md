@@ -6,7 +6,7 @@
 
 # Homepage
 
-![Screenshot (145)](https://i.postimg.cc/7L5gFvYt/Screenshot-2023-03-24-200537.png)
+<img src="https://i.postimg.cc/7L5gFvYt/Screenshot-2023-03-24-200537.png" />
 
 # Features
 
